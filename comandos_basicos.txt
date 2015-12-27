@@ -8,6 +8,7 @@ git status
 
 //2 - unstage estado - quando o arquivo esta pronto para ser enviado
 git add nomedoarquivo
+git add nome do aruivo
 
 //3 - commit - ARQUIVOS ESTA FAZENDO PARTE DO CONTROLE DE VERSAO
 git commit -m "nome do commit"
