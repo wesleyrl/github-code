@@ -1,0 +1,31 @@
+mkdir: criar pasta
+git init: cria um diretorio .git 
+
+git status 
+
+//untracked files
+ nao faz parte do controle de versao do git
+
+//
+
+
+!---------------------------COMANDOS PROMPT-----------------------!
+(Fechar um aplicativo em execuão)
+taskkill /f /im nomeDoPrograma.exe
+
+(sfc) verifica erros no windos
+sfc /scannow
+
+SHUTDOWN(DELIGA O COMPUTADO
+shutdown -s -t tempo em segundos
+shutdown -a cancelar o comando
+
+(type) visualizar arquivos de texto
+
+type nomedoarquivo.txt |more (opcional)
+
+netstat verificar portas no pc
+netstat -an |more
+
+
+
