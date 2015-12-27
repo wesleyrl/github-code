@@ -3,11 +3,17 @@ git init: cria um diretorio .git
 
 git status 
 
-//untracked files
+//1 -untracked files
  nao faz parte do controle de versao do git
 
-//
+//2 - unstage estado - quando o arquivo esta pronto para ser enviado
+git add nomedoarquivo
 
+//3 - commit - ARQUIVOS ESTA FAZENDO PARTE DO CONTROLE DE VERSAO
+git commit -m "nome do commit"
+
+
+git log (verificar o log do commit)
 
 !---------------------------COMANDOS PROMPT-----------------------!
 (Fechar um aplicativo em execuão)
