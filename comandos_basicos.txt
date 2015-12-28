@@ -16,6 +16,21 @@ git commit -m "nome do commit"
 
 git log (verificar o log do commit)
 
+
+----------------GIT LOG---------------
+git log -p (mostra as mudanças dos arquivos
+git log --stat
+git log --since=2.days (relatorio dos comites realizados por dias)
+
+
+-------------IGNORANDO ARQUIVOS--------------
+ignorando arquivos
+
+
+
+
+
+
 !---------------------------COMANDOS PROMPT-----------------------!
 (Fechar um aplicativo em execuão)
 taskkill /f /im nomeDoPrograma.exe
