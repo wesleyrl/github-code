@@ -1,0 +1,16 @@
+QUESTOES
+Qual o comando para verificar o detalhamento completo dos commits?
+
+    git log -p 
+
+Qual a função do parâmetro -a no momento de um commit?
+
+    Adicionar automaticamente os arquivos no momento do commit 
+
+Qual o commando para seguir no processo de um commit quando um arquivo está no estágio: "untracked files"?
+
+    git add 
+
+Como podemos ignorar um arquivo para o controle de versão?
+
+    .gitignore 
